@@ -6,7 +6,7 @@ You can follow along step-by-step. If you have already completed some steps, fee
 
 ## 0. Prerequisites
 
-* A Developer Account \(Register for one at  [Developer Portal](htttps://developer.mysmitch.com) \)
+* A Developer Account \(Register for one at  [Developer Portal](https://developer.mysmitch.com) \)
 * An App and a `TEST` API Key \(more details at [API Keys](app/api-keys.md)\)
 * A tester linked to your App \(more details at [tester](users/user-tester.md)\)
 
